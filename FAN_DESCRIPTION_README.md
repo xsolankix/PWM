@@ -1,5 +1,3 @@
-# README.txt
-
 ## Fan Control System with PWM Regulation and LCD Display
 
 **Project Description:**  
